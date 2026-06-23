@@ -189,7 +189,7 @@
     </td>
     <td align="center">
       <br/>
-      💰 <b>$500K+</b>
+      💰 <b>$100K+</b>
       <br/>
       <sub>Lead Generation Value</sub>
       <br/><br/>
