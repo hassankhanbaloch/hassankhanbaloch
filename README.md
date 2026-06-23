@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=70;lines=🤖+AI+Expert+%7C+IT+%26+Systems+Specialist;COO+%26+Co-Founder+%40+D%26H+IT+LABS;GenAI+%26+Agentic+AI+Engineer;Full-Stack+Web+Developer;5%2B+Years+Teaching+Excellence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=70&lines=🤖+AI+Expert+%7C+IT+%26+Systems+Specialist;COO+%26+Co-Founder+%40+D%26H+IT+LABS;GenAI+%26+Agentic+AI+Engineer;Full-Stack+Web+Developer;5%2B+Years+Teaching+Excellence" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -265,7 +265,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=30;lines=Teaching+is+the+highest+form+of+understanding.;Innovation+is+the+highest+form+of+teaching." alt="Footer Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=30&lines=Teaching+is+the+highest+form+of+understanding.;Innovation+is+the+highest+form+of+teaching." alt="Footer Typing" />
 </div>
 
 <br/>
